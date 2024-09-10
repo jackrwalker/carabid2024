@@ -7,19 +7,31 @@ Species mean body size (mm from the tip of the clypeus to the tip of the elytra)
 For each site, the community-weighted mean (CWM) value of each functional trait was calculated using the proportion of each species found at each site. For example, if four of species A and six of species B were found at a site, and the mean body size of those species were 3mm and 7mm respectively, the CWM body size for that site would be (0.43) + (0.67) = 5.4mm.  
 
 Variables:
+
 site: field site ID
+
 city: the city that site was located in
+
 urban: urbanisation measured as % impervious surface cover
+
 bodysize.weighted: community-weighted mean body size (mm)
+
 rll.weighted: community-weighted mean relative leg length
+
 latrange.weighted: community-weighted mean latitudinal range
+
 wingmorph.weighted: community-weighted mean wing morphology (0 = brachypterous, 1 = macropterous)
+
 smp.weighted: community-weighted mean soil moisture preference (0 = dry, 1 = wet)
 
 Data was derived from the following sources:
+
 GBIF.org 2024. GBIF Occurrence Download https://doi.org/10.15468/dl.7hqqnh. Accessed 29 August 2024.
+
 Lindroth, C.H. 1992. Ground Beetles (Carabidae) of Fennoscandia: A Zoogeographic Study (Amerind Publishing Co. Pvt. Ltd., New Delhi).
+
 Luff, M.L. 1998. Provisional atlas of the ground beetles (Coleoptera: Carabidae) of Britain (Biological Records Centre, Huntingdon).
+
 Turin, H. 2000. De Nederlandse Loopkevers: Verspreiding en Oecologie (Coleoptera: Carabidae) (KNNV, Leiden).
 
-Funding provided by Natural Environment Research Council Adapting to the Challenges of a Changing Environment Doctoral Training Partnership (ACCE DTP), grant no. (NE/S00713X/1).
+Funding provided by Natural Environment Research Council Adapting to the Challenges of a Changing Environment Doctoral Training Partnership (NERC ACCE DTP), grant no. (NE/S00713X/1).
